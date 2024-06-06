@@ -47,7 +47,7 @@ int main() {
                     compratotal += preciosproductos[j];
                 }
 
-                cout << "¿Desea agregar más productos? (Sí/No): ";
+                cout << "¿Desea agregar más productos? (S/N): ";
                 char respuesta;
                 cin >> respuesta;
 
