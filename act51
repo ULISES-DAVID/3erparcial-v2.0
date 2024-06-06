@@ -39,7 +39,7 @@ int main() {
                     break; //es una prueba xdd
                 }
 
-                int* preciosproductos = new int[cantidaddelproducto]; // Dynamically allocate memory
+                int* preciosproductos = new int[cantidaddelproducto]; 
 
                 for (int j = 0; j < cantidaddelproducto; ++j) {
                     cout << "Ingrese el precio del producto " << i + 1 << ": ";
