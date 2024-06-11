@@ -18,8 +18,10 @@ switch(usu){
 
   case 3:
     cout << "bienvenido administrador, que desea hacer?";
-  br
+    break;ut << "dar de alta a un nuevo usuario";
+  
 
       }
+  return 0;
 }
   return 0;
