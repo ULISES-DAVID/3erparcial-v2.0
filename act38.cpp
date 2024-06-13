@@ -10,7 +10,7 @@ int main() {
 
    
     for (int i = 0; i < posiciones; i++) {
-        //pedimos un número
+    
         cout << "Ingrese un número para la posición " << i << ": ";
         cin >> num[i];
     }
